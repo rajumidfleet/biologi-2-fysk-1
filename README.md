@@ -5,7 +5,9 @@ Interaktiv, statisk studiesajt för E-fokuserad träning i Biologi nivå 2 och F
 ## Funktioner
 
 - separat kursmeny för biologi och fysik
-- E-kärna organiserad efter kursens moment
+- biologins fyra moment uppdelade i 14 E-fokuserade träningsmoduler
+- fysikens åtta moment
+- tydlig koppling till övningar, laborationer och Examination 1–3
 - active recall med dold förklaring
 - självbedömning med 🟢 / 🟡 / 🔴
 - lokal kunskapsbank och progress i webbläsaren
